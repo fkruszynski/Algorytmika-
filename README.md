@@ -1,2 +1,1 @@
 # Algorytmika-
-Algorytmika Informatyka
